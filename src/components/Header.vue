@@ -1,6 +1,5 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
 </script>
 <template>
     <nav class="bg-red">
